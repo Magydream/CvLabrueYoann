@@ -228,7 +228,7 @@ li{
 }
 .container-banner-contact{
     background-size: cover;
-    background-image: url(/Images/contact-banner.jpg);
+    background-image: url(.images/contact-banner.jpg);
     height: 600px;
 
 }
